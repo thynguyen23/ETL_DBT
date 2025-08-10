@@ -1,0 +1,9 @@
+# Bỏ môi trường ảo
+dbt-venv/
+
+# Bỏ log
+logs/
+
+# Bỏ cache Python
+__pycache__/
+*.pyc
